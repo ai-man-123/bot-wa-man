@@ -16,3 +16,16 @@ Bot By Aiman
 
 </details> 
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
+
+#CARA INSTALL 
+''''
+
+git clone https://github.com/ai-man-123/bot-wa-man
+
+cd bot-wa-man
+
+npm i
+
+npm start 
+
+''''
